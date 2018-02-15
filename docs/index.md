@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dr Jekyll & Mr Hyde
+mathjax: true
 ---
 
 # Welcome
