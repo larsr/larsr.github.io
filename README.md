@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Notes by me
-mathjax: true
+
 ---
 
 # Notes by me

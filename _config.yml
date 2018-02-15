@@ -1,2 +1,5 @@
 # for MathJaX
 markdown: kramdown
+
+gems:
+  - jekyll-default-layout
