@@ -1,6 +1,7 @@
 name: This and that
+
+# https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages#30389289
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-plugins:
-  - jekyll-katex
+kramdown:
+    math_engine: katex
 

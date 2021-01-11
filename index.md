@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Musings...
-katex: true
 ---
 # Title
 Hello World
