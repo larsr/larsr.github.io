@@ -1,5 +1,4 @@
-# for MathJaX
+name: This and that
 markdown: kramdown
-
-gems:
-  - jekyll-default-layout
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
