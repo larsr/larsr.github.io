@@ -1,4 +1,6 @@
 name: This and that
 markdown: kramdown
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-katex
+
