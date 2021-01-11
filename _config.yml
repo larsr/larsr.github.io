@@ -1,6 +1,6 @@
 name: This and that
 
-# https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages#30389289
+# https://stackoverflow.com/a/57370526/304284
 markdown: kramdown
 kramdown:
     math_engine: katex
