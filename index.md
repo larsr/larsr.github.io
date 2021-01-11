@@ -11,9 +11,19 @@ title: Musings...
 # Title
 Hello World
 
-is <b> this </b> bold?
+is *this* bold?
 
 See the [Readme](README.html).
 
 
 $$\int sin(x)$$
+
+```
+def fib(n):
+    assert(n>=0)
+    if n > 1: 
+        return fib(n - 1) + fib(n - 2)
+    else:
+        return n
+```
+
