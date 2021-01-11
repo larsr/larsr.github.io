@@ -11,7 +11,7 @@ title: Musings...
 # Title
 Hello World
 
-is *this* bold?
+is _this_ bold?
 
 See the [Readme](README.html).
 
